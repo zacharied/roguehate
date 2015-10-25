@@ -1,0 +1,31 @@
+up:
+    type: row
+    cellWidth: 27
+    cellHeight: 49
+    marginX: 50
+    marginY: 40
+    spacing: 101
+
+left:
+    type: row
+    cellWidth: 49
+    cellHeight: 38
+    marginX: 37
+    marginY: 172
+    spacing: 79
+
+down:
+    type: row
+    cellWidth: 27
+    cellHeight: 49
+    marginX: 50
+    marginY: 304
+    spacing: 101
+
+right:
+    type: row
+    cellWidth: 49
+    cellHeight: 38
+    marginX: 37
+    marginY: 428
+    spacing: 79
